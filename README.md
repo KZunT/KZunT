@@ -1,4 +1,5 @@
 ### Hello World 👋
 
-- 😄 My major is computer science
-- 🌱 I’m currently learning AI (Especially Computer Vision)
+- I'm college student
+- My major is computer science
+- I’m currently learning AI (Especially Computer Vision)
